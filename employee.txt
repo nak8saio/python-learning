@@ -1,0 +1,12 @@
+Name of employee:Alexa
+Salary of employee:144000
+Category of employee:Good salary
+------------------------------
+Name of employee:John
+Salary of employee:132000
+Category of employee:Good salary
+------------------------------
+Name of employee:steven
+Salary of employee:120000
+Category of employee:Good salary
+------------------------------
